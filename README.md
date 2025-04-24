@@ -39,7 +39,7 @@ python system_monitor_prod.py --cpu 80 --mem 75 --disk 85 --interval 10 --path /
 - `--mem`: Memory usage warning threshold (default: 85.0)
 - `--disk`: Disk usage warning threshold (default: 90.0)
 - `--path`: Disk path to monitor (default: `/` on Linux/macOS, `C:\` on Windows)
-- `--interval`: Time in seconds between checks (default: 5)
+- `--interval`: Time in seconds between checks (default: 1)
 
 ## Logging
 
