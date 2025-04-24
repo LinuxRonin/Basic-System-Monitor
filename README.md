@@ -14,6 +14,7 @@ A cross-platform, Python-powered system monitoring tool that tracks CPU, memory,
 
 - Improved inline comments for clarity and maintainability.
 
+**To see original simplisitc code navigate to system_monitor_prod.py**
 
 ---
 
